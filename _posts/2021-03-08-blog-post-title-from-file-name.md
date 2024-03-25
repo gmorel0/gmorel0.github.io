@@ -11,4 +11,4 @@ $$\alpha$$
     <img src="../assets/test.png" style="width: 100%;" />    
 </div>
 
-![test](../assets/test.png)
+![test](/assets/test.png)
