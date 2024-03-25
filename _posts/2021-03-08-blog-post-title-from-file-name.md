@@ -1,5 +1,5 @@
 ---
-tag: test-tag
+tags: test-tag
 ---
 
 <meta name="keywords" content="generative-model, math-heavy, image-generation" />
