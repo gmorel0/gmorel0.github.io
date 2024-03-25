@@ -6,3 +6,9 @@ tags: test-tag
 Let's wirte $\alpha$
 
 $$\alpha$$
+
+<div style="display: flex; flex-direction: row;">
+    <img src="../assets/test.png" style="width: 100%;" />    
+</div>
+
+![test](../assets/test.png)
